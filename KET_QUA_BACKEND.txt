@@ -1,0 +1,12 @@
+KIEM THU AUTOMATED BACKEND (SQLite TAM, KHONG DOI TASKS.DB)
+..........................                                               [100%]
+26 passed in 1.45s
+
+run,expected_tasks,post_requests_including_retries,unique_found,errors,duration_seconds,tasks_per_second,result
+1,20,40,20,0,0.2057,97.21,PASS
+2,20,40,20,0,0.153,130.69,PASS
+3,20,40,20,0,0.1843,108.51,PASS
+4,20,40,20,0,0.1627,122.95,PASS
+5,20,40,20,0,0.1737,115.11,PASS
+
+ANDROiD BUILD/EMULATOR: CHUA KIEM TRA TAI DAY
